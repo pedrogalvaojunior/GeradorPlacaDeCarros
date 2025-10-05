@@ -54,7 +54,7 @@ O script realiza as seguintes operações:
 
 1. Clone o repositório:
 
-git clone https://github.com/pedrogalvaojunior/GeradorPlacaDeCarros.git
+    git clone https://github.com/pedrogalvaojunior/GeradorPlacaDeCarros.git
 
 2. Abra o arquivo `.sql` no SSMS.
 
