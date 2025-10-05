@@ -16,9 +16,9 @@ Este repositório apresenta um script desenvolvido em T-SQL para gerar todas as 
 
 O script realiza as seguintes operações:
 
-1. 1. Criação do banco de dados `GeradorDePlacas`
+1. Criação do banco de dados `GeradorDePlacas`
 
-1. 2. Criação de tabelas:
+2. Criação de tabelas:
 
 - `LetrasCombinadas`: combinações de três letras (AAA a ZZZ)
 
@@ -28,7 +28,7 @@ O script realiza as seguintes operações:
 
 - `FaixasDePlacasPorEstado`: faixas específicas por UF (em construção)
 
-1. 3. Inserção de dados:
+3. Inserção de dados:
 
 - Geração automatizada das combinações alfabéticas
 
@@ -36,7 +36,7 @@ O script realiza as seguintes operações:
 
 - Montagem das placas completas
 
-1. 4. Consultas e visualizações:
+4. Consultas e visualizações:
 
 - Exibição de placas geradas
 
@@ -52,13 +52,13 @@ O script realiza as seguintes operações:
 
 # 🚀 Como usar
 
-  1. 1. Clone o repositório:
+1. Clone o repositório:
 
-    git clone https://github.com/pedrogalvaojunior/GeradorPlacaDeCarros.git
+git clone https://github.com/pedrogalvaojunior/GeradorPlacaDeCarros.git
 
-1. 2. Abra o arquivo `.sql` no SSMS.
+2. Abra o arquivo `.sql` no SSMS.
 
-1. 3. Execute os blocos de código na ordem indicada:
+3. Execute os blocos de código na ordem indicada:
 
 - Criação do banco
 
@@ -67,6 +67,7 @@ O script realiza as seguintes operações:
 - Inserção dos dados
 
 - Consultas de exemplo
+
 
 # 📊 Exemplos de uso
 
