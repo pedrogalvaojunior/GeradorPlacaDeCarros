@@ -53,12 +53,12 @@ O script realiza as seguintes operações:
 # 🚀 Como usar
 
 1. Clone o repositório:
-
+```bash
     git clone https://github.com/pedrogalvaojunior/GeradorPlacaDeCarros.git
+```
+3. Abra o arquivo `.sql` no SSMS.
 
-2. Abra o arquivo `.sql` no SSMS.
-
-3. Execute os blocos de código na ordem indicada:
+4. Execute os blocos de código na ordem indicada:
 
 - Criação do banco
 
